@@ -1,0 +1,16 @@
+*{
+    padding:0;
+    margin:0;
+}
+.clear:after{
+    content:''；
+    display:block;
+    height:0;
+    clear:both;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style-type: none;
+}
